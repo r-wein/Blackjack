@@ -5,7 +5,7 @@ Command Line Blackjack Game
 ![Blackjack Demo](Blackjack.gif)
 
 ## About this Project
-### Inception
+### Origin
 In one of my classes, I was given the option to either refactor a piece of exsiting code or write a program from scratch.  I chose the latter and thought it would be fun to write a card game.  I chose Blackjack due to its widespread popularity.
 
 ### Functionality
