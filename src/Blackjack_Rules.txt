@@ -1,0 +1,17 @@
+Blackjack Rules:
+
+Blackjack is a popular card game where a player tries to beat the dealer by collecting a series of cards who total is closer to 21, without exceeding 21, than the dealer's.
+
+Card Values:
+
+- Cards numbering 2 to 10 are equal to their face value
+- Face Cards, 'J', 'Q', and 'K' are equal to 10
+- Aces are equal to 1 or 11 depending on the current total of the hand
+
+The game begins with both the dealer and the player receiving two cards. Each of the player's cards are visible but only the second card of the dealer is visible.  If either hand equals 21, whomever has that total wins and the game is over. If both the dealer and the player have 21, it is called a push and nobody wins. 
+
+If neither the dealer nor the player has 21, the player has the option to hit, which means they get another card from the deck. They are able to hit as many times as they desire as long as their hand is less than 21. If they go over, it is called a bust, the game is over and the dealer wins. If they stand before they bust, it is the dealer's turn
+
+The dealer has a strict set of rules of when they are allowed to hit or stand. If the dealer's hand is less than or equal to 16, they must hit. If the dealer's hand totals 17 by having an ace and a six, this is called a soft 17 and the dealer must hit. In all other cases the dealer must stand.
+
+Before each game the player is asked to place a bet. They are allowed to bet up to the total amount of money they have listed. If they win, that amount is added to their total; if they lose, it's subtracted. If the player has an initial hand of 10 or 11, they are able to double down. This means they can double their bet for a single card. A double down can only be placed if they have sufficient funds.

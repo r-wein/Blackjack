@@ -1,0 +1,15 @@
+INSTALL:
+
+This project has been exported in eclipse's archive format. To add the file to eclipse, begin by selecting 
+'Import' from the File menu. Choose 'General' and then select 'Existing Project into Workspace'.  On the next
+screen, you may 'Select archive file'.  Once you have found the file on your computer, click 'Finish' and 
+the files will be moved into your workspace.
+
+CONFIGURE:
+
+There is no need to configure anything with this project once it is imported into your IDE.
+
+RUNNING THE APPLICATION:
+
+Located the gameMain package within the 602_Final_Project_Blackjack project. Once here, you will see the
+BlackjackMain.java file. Run this file and the application will start. 

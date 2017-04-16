@@ -1,0 +1,7 @@
+This document includes all the code that I did not write:
+
+For the banner method in MenuBuilder (lines 85-110), that code can be found in:
+
+	A.  Koenig and B.  Moo, Accelerated C++, 1st ed. Boston, MA: Addison-Wesley, 2000.
+	
+All I did was convert the C++ to Java.
