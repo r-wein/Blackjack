@@ -2,7 +2,7 @@
 Command Line Blackjack Game
 
 ## Example Gif
-[Blackjack Demo](Blackjack.gif)
+![Blackjack Demo](Blackjack.gif)
 
 ## About this Project
 ### Inception
