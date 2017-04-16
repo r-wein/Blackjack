@@ -1,7 +1,7 @@
 # BLACKJACK
 Command Line Blackjack Game
 
-## Example Gif
+## Program Sample
 ![Blackjack Demo](Blackjack.gif)
 
 ## About this Project
