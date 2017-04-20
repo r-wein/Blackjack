@@ -54,7 +54,7 @@ I used JUnit to test all my code in this project.  Those tests can be seen [here
 ### Future Improvements
 1. Give the player the opportunity to select how many decks they want to play with.  Currrently, they can only play with one.
 1. Give the player the opportunity to split their hand.  At the moment they can only double down.
-1. Give the player the opportunity for insurance if they dealer's initial hand shows an ace.
+1. Give the player the opportunity for insurance if the dealer's initial hand shows an ace.
 
 ## Resources
 I used no outside resources for this project.
