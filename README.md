@@ -52,7 +52,7 @@ For my game, the player starts out with a balance of $100.  They can bet before 
 I used JUnit to test all my code in this project.  Those tests can be seen [here](https://github.com/rossweinstein/Blackjack/tree/master/test).
 
 ### Future Improvements
-1. Give the player the opportunity to select how many decks they want to play with.  Currrently, they can only play with one.
+1. Give the player the opportunity to select how many decks they want to play with.  Currrently, they can only play with a single deck.
 1. Give the player the opportunity to split their hand.  At the moment they can only double down.
 1. Give the player the opportunity for insurance if the dealer's initial hand shows an ace.
 
